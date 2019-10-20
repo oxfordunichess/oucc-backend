@@ -1,6 +1,6 @@
 # 2nd Team Schedule
 
-[If you are interested in playing please contact Kevin Henbest at](mailto:kevin.henbest@chem.ox.ac.uk">kevin.henbest@chem.ox.ac.uk)
+If you are interested in playing please contact Kevin Henbest at [kevin.henbest@chem.ox.ac.uk](mailto:kevin.henbest@chem.ox.ac.uk)
 
 ## Michaelmas 2017
 
