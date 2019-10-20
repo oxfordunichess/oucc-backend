@@ -1,0 +1,26 @@
+{
+  "name": "oucc-backend",
+  "version": "1.0.0",
+  "description": "Serve markdown files from here so that we can easily/quickly edit",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxfordunichess/oucc-backend.git"
+  },
+  "keywords": [
+    "REST",
+    "github",
+    "site",
+    "chess",
+    "oucc"
+  ],
+  "author": "Aloysius Lip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oxfordunichess/oucc-backend/issues"
+  },
+  "homepage": "https://github.com/oxfordunichess/oucc-backend#readme"
+}
