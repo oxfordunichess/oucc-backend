@@ -12,7 +12,7 @@
 		for (let p of pages) {
 			let bullet = document.createElement('li');
 			let link = document.createElement('a');
-			link.setAttribute('href', '/pages/' + p + '.md');
+			link.setAttribute('href', process.env.PUBLIC_URL + '/pages/' + p + '.md');
 			link.innerHTML = p;
 			bullet.appendChild(link);
 			pageList.appendChild(bullet);
