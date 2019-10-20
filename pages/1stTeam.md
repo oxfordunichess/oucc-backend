@@ -1,11 +1,13 @@
 # 1st Team Schedule
 
-If you are interested in playing please contact Andrew Rogozinski at [andrew.rogozinski@worc.ox.ac.uk](mailto:andrew.rogozinski@worc.ox.ac.uk)
+If you are interested in playing please contact Filip Mihov at [filip.mihov@balliol.ox.ac.uk](mailto:filip.mihov@balliol.ox.ac.uk)
 
-## Michaelmas 2018
+## Michaelmas 2019
 
 Dates will be added once released by the oxfordshire chess association.
-<!--
+
+## Michaelmas 2017
+
 <table>
 <tr>
 <th> 16th Oct (Mon w2) </th>
@@ -45,4 +47,3 @@ Dates will be added once released by the oxfordshire chess association.
 
 
 </table>
--->

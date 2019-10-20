@@ -2,7 +2,7 @@
 
 For a full list of all our events this term, please see our [termcard](/termcard.html)
 
-Oxford University Chess Club (OUCC) was founded in 1869 and is the oldest university chess club in the United Kingdom. Our aim is to promote chess in the university, and to play competitively in the local leagues as well as against other universities. The club boasts an active membership of more than 50 ranging from purely social players ambridge.
+Oxford University Chess Club (OUCC) was founded in 1869 and is the oldest university chess club in the United Kingdom. Our aim is to promote chess in the university, and to play competitively in the local leagues as well as against other universities. The club boasts an active membership of more than 50 ranging from purely social players meeting over a pint to International Grandmasters representing us at the annual match against the University of Cambridge.
 
 We host weekly clubnights at Christ Church on Wednesdays to play chess and socialise. We welcome everyone to come along to our events for free, but we ask you join as a member if you intend to come regularly. We host variety of events, including:
 - Informal chess sessions where you can play chess with anyone from a beginner to a grandmaster.
