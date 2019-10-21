@@ -1,0 +1,24 @@
+{
+    "news": {
+		"title": "News"
+	},
+    "members": {
+		"title": "Membership",
+		"redirect": "membership"
+	},
+    "leagues": {
+		"title": "Play"
+	},
+    "varsity": {
+		"title": "Varsity"
+	},
+    "contact": {
+		"title": "Contact"
+	},
+	"sponsors": {
+		"title": "Sponsors"
+	},
+	"tournament": {
+		"title": "150 Years"
+	}
+}

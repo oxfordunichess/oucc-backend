@@ -4,7 +4,7 @@
 
 We are an open, friendly organisation and welcome all non-members to come along to our events free-of-charge on a trial basis. However, if you wish to represent the university in matches and tournaments against other universities, or find yourself coming to our events often (especially classes and league matches) we will ask you to pay one of our two membership rates:
 
-1. Yearly Me  mbership: £10
+1. Yearly Membership: £10
 2. Life Membership: £25
 
 You can either pay in cash at any of our events, via online banking, or via PayPal.

@@ -1,5 +1,3 @@
-<div class="article">
-
 ## New Season Underway!
 
 ### Sun, 20 Oct 2013 14:20:00 -0700

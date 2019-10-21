@@ -45,7 +45,7 @@ Overall, this has been a tremendous season for the Oxford University Chess Club.
 Our achievements this year are:  
 
 Varsity Champions (beating Cambridge by 4.5 to 3.5)  
-Winning Town v Gown (beating the Town by 6 to 4)  
+Winning Town v Gown (beating the Town by 6 to 4) n     
 Finished 2nd in the British University Chess Championships, qualifying for the European University Chess Championships  
 Won the 20/20 chess qualifiers in London, qualifying for the finals  
 Beating the Oxford and Cambridge Club 4-1 in a friendly match  

@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Andrew Rogozinski",
+        "college": "Worcester",
+        "position": "President"
+    },
+    {
+        "name": "George Dumitrescu",
+        "college": "Lady Margaret Hall",
+        "position": "Vice President"
+    },
+    {
+        "name": "Filip Mihov",
+        "college": "Balliol",
+        "position": "Secretary"
+    },
+    {
+        "name": "Aloysius Lip",
+        "college": "Christ Church",
+        "position": "Treasurer"
+    },
+    {
+        "name": "Joris Gerlagh",
+        "college": "University",
+        "position": "Varsity Captain"
+    },
+    {
+        "name": "Filip Mihov",
+        "college": "Balliol",
+        "position": "First Team Captain"
+    },
+    {
+        "name": "Kevin Henbest",
+        "college": "Chemistry Dept",
+        "position": "Second Team Captain"
+    },
+    {
+        "name": "Tom Croghan",
+        "college": "St. Hilda's",
+        "position": "Third Team Captain"
+    },
+    {
+        "name": "Aloysius Lip",
+        "college": "Christ Church",
+        "position": "Webmaster"
+    }
+]
