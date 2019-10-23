@@ -1,6 +1,6 @@
 ﻿# Welcome to Oxford University Chess Club
 
-For a full list of all our events this term, please see our [termcard](https://unioxfordnexus-my.sharepoint.com/:x:/g/personal/chri5551_ox_ac_uk/EQAUw-Mpt6pMoKx93Y8MFM0BQSwz7Xsqx1vJ54r5SILOrA)
+For a full list of all our events this term, please see our [termcard](https://unioxfordnexus-my.sharepoint.com/:x:/g/personal/chri5551_ox_ac_uk/EQAUw-Mpt6pMoKx93Y8MFM0BQSwz7Xsqx1vJ54r5SILOrA).
 
 Oxford University Chess Club (OUCC) was founded in 1869 and is the oldest university chess club in the United Kingdom. Our aim is to promote chess in the university, and to play competitively in the local leagues as well as against other universities. The club boasts an active membership of more than 50 ranging from purely social players meeting over a pint to International Grandmasters representing us at the annual match against the University of Cambridge.
 
