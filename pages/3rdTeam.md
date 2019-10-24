@@ -1,8 +1,8 @@
 # 3rd Team Schedule
 
 If you are interested in playing please contact Boris Gusev at [boris.gusev@st-hildas.ox.ac.uk](mailto:boris.gusev@st-hildas.ox.ac.uk) ## Michaelmas 2019 Dates will be added once released by
-the oxfordshire chess association.
-
+the Oxfordshire chess association.  
+  
 ## Michaelmas 2019
 
 TBA
