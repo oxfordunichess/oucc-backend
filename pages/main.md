@@ -8,11 +8,11 @@ We host weekly clubnights at Christ Church on Wednesdays to play chess and socia
 - Informal chess sessions where you can play chess with anyone from a beginner to a grandmaster.
 - Termly Blitz tournaments.
 - Lectures from our top members.
-- [Simultaneous exhibitions](http://en.wikipedia.org/wiki/Simultaneous_exhibition) from top British players. Year
+- [Simultaneous exhibitions](http://en.wikipedia.org/wiki/Simultaneous_exhibition) from top British players.
 
 We have no prerequisites to membership, and there are two membership options:
-- 1 Year membership: One Year, £15
-- Lifetime membership: £25
+1. Yearly Membership: £15
+2. Life Membership: £25
 
 We also play competitive chess in the [Oxfordshire League](http://www.oxfordfusion.com/oca/). We currently field three teams: one in division 4 for beginners, one in division 2, for intermediate players and one in division 1 for top players. Each team plays approximately one match per week.
 
