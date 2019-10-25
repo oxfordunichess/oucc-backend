@@ -38,6 +38,10 @@
         "title": "Current News",
 		"parent": "news"
     },
+    "committee": {
+        "title": "Committee",
+		"parent": "members"
+	},
     "historical_committee": {
         "title": "Historical Committee",
 		"parent": "members"
