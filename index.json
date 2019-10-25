@@ -38,8 +38,8 @@
         "title": "Current News",
 		"parent": "news"
     },
-    "historic_committee": {
-        "title": "Historic Committee",
+    "historical_committee": {
+        "title": "Historical Committee",
 		"parent": "members"
 	},
     "old_news": {
