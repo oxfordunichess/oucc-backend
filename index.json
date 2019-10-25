@@ -1,24 +1,63 @@
 {
-    "news": {
-		"title": "News"
+
+	"members": {
+		"redirect": "/membership"
 	},
-    "members": {
-		"title": "Membership",
-		"redirect": "membership"
+	"index.html": {
+		"redirect": "/"
 	},
+	"news": {
+		"redirect": "/curr_news"
+	},
+	"termcard": {
+		"open": "https://unioxfordnexus-my.sharepoint.com/:x:/g/personal/chri5551_ox_ac_uk/EQAUw-Mpt6pMoKx93Y8MFM0BQSwz7Xsqx1vJ54r5SILOrA",
+		"redirect": "/leagues"
+	},
+
+    "1stTeam": {
+        "title": "First Team"
+    },
+    "2ndTeam": {
+        "title": "Second Team"
+    },
+    "3rdTeam": {
+        "title": "Third Team"
+    },
+    "archive": {
+        "title": "Archive"
+    },
+    "classes": {
+        "title": "Classes"
+    },
+    "curr_news": {
+        "title": "Curr_news"
+    },
+    "old_news": {
+        "title": "Old News"
+    },
+    "other_events": {
+        "title": "Other Events"
+    },
     "leagues": {
-		"title": "Play"
+        "title": "Leagues"
+    },
+    "maillists": {
+        "title": "Maillists"
+    },
+    "main": {
+        "title": ""
 	},
+    "membership": {
+        "title": "Membership"
+    },
+    "sponsors": {
+        "title": "Sponsors"
+    },
+    "tournament": {
+        "title": "Tournament"
+    },
     "varsity": {
-		"title": "Varsity"
-	},
-    "contact": {
-		"title": "Contact"
-	},
-	"sponsors": {
-		"title": "Sponsors"
-	},
-	"tournament": {
-		"title": "150 Years"
+        "title": "Varsity"
 	}
+	
 }
