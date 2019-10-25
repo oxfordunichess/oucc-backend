@@ -15,49 +15,64 @@
 	},
 
     "1stTeam": {
-        "title": "First Team"
+		"title": "First Team",
+		"parent": "leagues"
     },
     "2ndTeam": {
-        "title": "Second Team"
+        "title": "Second Team",
+		"parent": "leagues"
     },
     "3rdTeam": {
-        "title": "Third Team"
+        "title": "Third Team",
+		"parent": "leagues"
     },
     "archive": {
-        "title": "Archive"
+        "title": "Archive",
+		"parent": "news"
     },
     "classes": {
-        "title": "Classes"
+        "title": "Classes",
+		"parent": "leagues"
     },
     "curr_news": {
-        "title": "Curr_news"
+        "title": "Current News",
+		"parent": "news"
     },
     "old_news": {
-        "title": "Old News"
+        "title": "Old News",
+		"parent": "news"
     },
     "other_events": {
-        "title": "Other Events"
+        "title": "Other Events",
+		"parent": "tournament"
     },
     "leagues": {
-        "title": "Leagues"
+        "title": "Leagues",
+		"parent": "leagues"
     },
     "maillists": {
-        "title": "Maillists"
+		"title": "Mailing Lists",
+		"parent": "contact"
     },
     "main": {
-        "title": ""
+        "title": "",
+		"parent": "main"
 	},
     "membership": {
-        "title": "Membership"
+        "title": "Membership",
+		"parent": "members"
     },
     "sponsors": {
-        "title": "Sponsors"
+		"title": "Sponsors",
+		"parent": "sponsors"
     },
     "tournament": {
-        "title": "Tournament"
+		"title": "Tournament",
+		"parent": "tournament"
     },
     "varsity": {
-        "title": "Varsity"
+        "title": "Varsity",
+		"parent": "tournament"
 	}
 	
 }
