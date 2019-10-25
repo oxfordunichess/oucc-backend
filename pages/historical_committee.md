@@ -4,16 +4,16 @@ A number of famous people have held officership within OUCC. You can search the 
 
 ### Committee 2018
 
-<Table src="committee2018.json">
+<data-table src="committee2018.json">
 
 ### President
 
-<Table src="president.json">
+<data-table src="president.json">
 
 ### Treasurer
 
-<Table src="treasurer.json">
+<data-table src="treasurer.json">
 
 ### Secretary
 
-<Table src="secretary.json">
+<data-table src="secretary.json">
