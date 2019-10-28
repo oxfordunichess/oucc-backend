@@ -4,14 +4,20 @@
 <head>
 	<meta charset="utf-8">
 	<script type="text/javascript">
+		const body = document.getElementById('body');
+		const xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				body.innerHTML = xhttp.responseText;
+			}
+		}
 		const redirect = 'https://api.github.com/repos/oxfordunichess/oucc-backend/contents/';
-		//let body = document.getElementByTagName('body');
 		let pathname = window.location.pathname.split('/').slice(2).join('/');
-		window.location = redirect + pathname;
+		xhttp.open("GET", redirect + pathname, true);
+		xhttp.send();
 	</script>
 </head>
-
-<body>
+<body id="body">
 </body>
 
 </html>
