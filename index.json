@@ -38,10 +38,6 @@
         "title": "Classes",
 		"parent": "leagues"
     },
-    "curr_news": {
-        "title": "Current News",
-		"parent": "news"
-    },
     "committee": {
         "title": "Committee",
 		"parent": "members"

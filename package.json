@@ -1,6 +1,6 @@
 {
   "name": "oucc-backend",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Serve markdown files from here so that we can easily/quickly edit",
   "main": "index.html",
   "scripts": {
