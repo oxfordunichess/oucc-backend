@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+</head>
+<body id="body">
+	<script type="text/javascript">
+		const body = document.getElementById('body');
+		const xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function() {
+			if (this.readyState == 4 && this.status == 200) {
+				let data = JSON.parse(xhttp.responseText);
+				body.innerHTML = data.map(file => file.name);
+			}
+		}
+		const redirect = 'https://api.github.com/repos/oxfordunichess/oucc-backend/contents/';
+		let pathname = window.location.pathname.split('/').slice(2).join('/');
+		xhttp.open("GET", redirect + pathname, true);
+		xhttp.send();
+	</script>
+</body>
+
+</html>
