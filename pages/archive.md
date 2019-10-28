@@ -17,103 +17,54 @@ The match closed off in just over four hours, with our players valiantly clawing
 The best game was awarded to Raja Panjwani for his win over Sam Franklin, and the brilliancy to Howard Chiu for his winning game against Adam Scibior. Many thanks to all the members of the RAC, especially Henry Mutkin, who make this event possible every year.  
 
 <table>
-
-<tbody>
-
-<tr>
-
-<th>Oxford</th>
-
-<th>3½-4½</th>
-
-<th>Cambridge</th>
-
-</tr>
-
-<tr>
-
-<td>Raja Panjwani 2407</td>
-
-<td>1-0</td>
-
-<td>Samuel G A Franklin 2322</td>
-
-</tr>
-
-<tr>
-
-<td>Ravindran Shanmugam 2375</td>
-
-<td>½-½</td>
-
-<td>Rafe Martyn 2258</td>
-
-</tr>
-
-<tr>
-
-<td>David Zakarian 2374</td>
-
-<td>0-1</td>
-
-<td>Richard Weaving 2176</td>
-
-</tr>
-
-<tr>
-
-<td>Dominic Foord 2099</td>
-
-<td>½-½</td>
-
-<td>Daniel Hunt 2057</td>
-
-</tr>
-
-<tr>
-
-<td>Jozef Janovsky 2131</td>
-
-<td>½-½</td>
-
-<td>Vytautas Gruslys 1970</td>
-
-</tr>
-
-<tr>
-
-<td>Howard Chiu 2048</td>
-
-<td>1-0</td>
-
-<td>Adam Scibior 2229</td>
-
-</tr>
-
-<tr>
-
-<td>Joshua Tan 2020</td>
-
-<td>0-1</td>
-
-<td>Andrew McClement 2128</td>
-
-</tr>
-
-<tr>
-
-<td>Nicole Miranda Gonzalez 2009</td>
-
-<td>0-1</td>
-
-<td>Nath Saheli 2116</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<th>Oxford</th>
+			<th>3½-4½</th>
+			<th>Cambridge</th>
+		</tr>
+		<tr>
+			<td>Raja Panjwani 2407</td>
+			<td>1-0</td>
+			<td>Samuel G A Franklin 2322</td>
+		</tr>
+		<tr>
+			<td>Ravindran Shanmugam 2375</td>
+			<td>½-½</td>
+			<td>Rafe Martyn 2258</td>
+		</tr>
+		<tr>
+			<td>David Zakarian 2374</td>
+			<td>0-1</td>
+			<td>Richard Weaving 2176</td>
+		</tr>
+		<tr>
+			<td>Dominic Foord 2099</td>
+			<td>½-½</td>
+			<td>Daniel Hunt 2057</td>
+		</tr>
+		<tr>
+			<td>Jozef Janovsky 2131</td>
+			<td>½-½</td>
+			<td>Vytautas Gruslys 1970</td>
+		</tr>
+		<tr>
+			<td>Howard Chiu 2048</td>
+			<td>1-0</td>
+			<td>Adam Scibior 2229</td>
+		</tr>
+		<tr>
+			<td>Joshua Tan 2020</td>
+			<td>0-1</td>
+			<td>Andrew McClement 2128</td>
+		</tr>
+		<tr>
+			<td>Nicole Miranda Gonzalez 2009</td>
+			<td>0-1</td>
+			<td>Nath Saheli 2116</td>
+		</tr>
+	</tbody>
 </table>
-
 </div>
 
 <div class="article">
