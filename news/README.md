@@ -9,4 +9,6 @@ So all these articles are written in **markdown** and automatically compiled to 
 
 Check [this document](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) if you want to see a full reference.
 
+Alternatively, use this [markdown preview editor](https://stackedit.io/app) to see how your formatting would directly render. Just type what you see!
+
 Click any previous article, [such as this one on GitHub](https://github.com/oxfordunichess/oucc-backend/blob/master/news/2019-10-28_website.md) and click the 'Raw' button on the top banner to see the formatting used there.
