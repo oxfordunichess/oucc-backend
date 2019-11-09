@@ -2,6 +2,8 @@
  
 Teaching has begun for Michaelmas 2019! The first session was held on the Friday of Week 4 (9th November, 2019). Teaching is currently kindly hosted by 1st team players Victor Vasiesiu and Filip Mihov. Their dedication in giving up their time for the club is very much appreciated.
 
+[Register attendance here](https://form.jotformeu.com/93082939049366)
+
 We currently run two squads. Both are at Christ Church, from **5:30pm-6:30pm**, held in different rooms. They are as follows:
 
 ## Intermediate Lessons with Victor Văsieșiu

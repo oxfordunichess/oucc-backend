@@ -21,6 +21,6 @@ To be eligible to play our matches for free we need to know that you are an ECF 
 
 ## Member List
 
-You can check if you are a registered member of the club below. The term 'Booked' denotes a member has signed their name into our physical permanent record of books. Contact [our team]('/contact') if you think there is any dispute about the information represented here or your name does not appear and you think it should:
+You can check if you are a registered member of the club below. The term 'Booked' denotes a member has signed their name into our physical permanent record of books. Contact [our team](/contact) if you think there is any dispute about the information represented here or your name does not appear and you think it should:
 
 <data-table src="member-list.csv">
