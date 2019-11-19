@@ -99,7 +99,10 @@
             true
         ]
 	],
-	"sponsors": [],
+	"sponsors": [
+		"right",
+		"Sponsors"
+	],
     "events": [
 		"left",
 		"Events",
