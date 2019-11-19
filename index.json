@@ -12,9 +12,6 @@
 	"news": {
 		"redirect": "/curr_news"
 	},
-	"termcard": {
-		"redirect": "/termcard"
-	},
 
     "1stTeam": {
 		"title": "First Team",
