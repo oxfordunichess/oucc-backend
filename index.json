@@ -12,9 +12,8 @@
 	"news": {
 		"redirect": "/curr_news"
 	},
-	"#termcard": {
-		"open": "https://unioxfordnexus-my.sharepoint.com/:x:/g/personal/chri5551_ox_ac_uk/EQAUw-Mpt6pMoKx93Y8MFM0BQSwz7Xsqx1vJ54r5SILOrA",
-		"redirect": "/leagues"
+	"termcard": {
+		"redirect": "/termcard"
 	},
 
     "1stTeam": {
