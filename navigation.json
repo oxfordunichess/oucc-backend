@@ -1,5 +1,7 @@
 {
     "news": [
+		"left",
+		"News",
         [
             "/curr_news",
             "Current News",
@@ -14,6 +16,8 @@
         ]
     ],
     "leagues": [
+		"left",
+		"Play",
         [
             "/boxleague",
             "Club League",
@@ -58,6 +62,8 @@
         ]
     ],
     "members": [
+		"right",
+		"Join",
         [
             "/membership",
             "Membership",
@@ -78,6 +84,8 @@
         ]
     ],
     "contact": [
+		"right",
+		"Contact",
         [
             "/contact",
             "Contact Us",
@@ -92,16 +100,24 @@
         ]
 	],
 	"sponsors": [],
-    "tournament": [
+    "events": [
+		"left",
+		"Events",
+		[
+			"/varsity",
+			"Varsity",
+			false,
+			true	
+		],
         [
             "/tournament",
-            "Tournament",
+            "Congress",
             false,
             true
         ],
         [
             "/other_events",
-            "Alumni day",
+            "150th",
             false,
             true
         ]
