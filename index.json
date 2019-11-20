@@ -12,6 +12,9 @@
 	"news": {
 		"redirect": "/curr_news"
 	},
+	"events": {
+		"redirect": "/varsity"
+	},
 
     "1stTeam": {
 		"title": "First Team",
