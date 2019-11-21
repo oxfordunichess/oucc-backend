@@ -17,10 +17,10 @@ Alternatively, use the sort code 40-35-34 and account number 90632937 and use a 
 
 If you want to play regularly for our [teams](/leagues) then we are required to charge you £3 per match for every game after your first unless you join the English Chess Federation at Bronze level or above. You can join the ECF online at [www.englishchess.org.uk](http://www.englishchess.org.uk).
 
-To be eligible to play our matches for free we need to know that you are an ECF member - contact our [Treasurer](/committee) with your membership number once you have joined.
+To be eligible to play our matches for free we need to know that you are an ECF member - contact our [Treasurer](/committee) once you have joined.
 
 ## Member List
 
-You can check if you are a registered member of the club below. The term 'Booked' denotes a member has signed their name into our physical permanent record of books. Contact [our team](/contact) if you think there is any dispute about the information represented here or your name does not appear and you think it should:
+You can check if you are a registered member of the club below. Contact [our team](/contact) if you think there is any dispute about the information represented here or your name does not appear and you think it should:
 
 <data-table src="member-list.csv">
