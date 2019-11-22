@@ -67,7 +67,11 @@
     "membership": {
         "title": "Membership",
 		"parent": "members"
-    },
+	},
+	"payments": {
+		"title": "Payments",
+		"parent": "contact"
+	},
     "sponsors": {
 		"title": "Sponsors",
 		"parent": "sponsors"

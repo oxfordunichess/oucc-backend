@@ -97,7 +97,12 @@
             "Join our Mailing Lists",
             false,
             true
-        ]
+		],
+		[
+			"/Payments",
+			false,
+			true
+		]
 	],
 	"sponsors": [
 		"right",
