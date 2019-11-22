@@ -99,7 +99,8 @@
             true
 		],
 		[
-			"/Payments",
+			"/payments",
+			"Payments",
 			false,
 			true
 		]
