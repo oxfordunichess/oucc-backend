@@ -2,8 +2,8 @@
 
 ### 9th October 2019 - by Aloysius Lip
 
-<img src="https://i.imgur.com/rQhDmli.png">
-<img src="https://i.imgur.com/v21STaT.png">
+![](https://i.imgur.com/rQhDmli.png)
+![](https://i.imgur.com/v21STaT.png)
 
 We really enjoyed meeting you all at freshers' fair and welcome drinks!
 

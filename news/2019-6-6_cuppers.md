@@ -3,7 +3,7 @@
 ### 6th June 2019 - by Alex Hardwick
 ### Originally published in [Cherwell, 6th June 2019](https://cherwell.org/2019/06/06/magdalen-claim-victory-in-chess-cuppers-tournament)
 
-<img src="https://cdn.cherwell.org/wp-content/uploads/2019/06/30010234/chess-club.jpg">
+![](../images/cuppers1.jpg)
 
 Few crowds ever out-flock the bustling tourists of Christ Church’s Tom Quad, but on one sunny Saturday afternoon, the feat was achieved by a set of chess players, brought together by the Oxford University Chess Club (OUCC) for the annual Cuppers tournament. Seventeen teams, each of four players, entered from thirteen different colleges. The three-hour tournament resulted in a victory for Magdalen College’s first team.
 

@@ -4,15 +4,11 @@
 		"News",
         [
             "/curr_news",
-            "Current News",
-            false,
-            true
+            "Current News"
         ],
         [
             "/old_news",
-            "News Archive",
-            false,
-            true
+            "News Archive"
         ]
     ],
     "leagues": [
@@ -20,45 +16,31 @@
 		"Play",
         [
             "/boxleague",
-            "Club League",
-            true,
-            false
+            "Club League"
         ],
         [
             "/leagues",
-            "Teams",
-            false,
-            true
+            "Teams"
         ],
         [
             "/termcard",
-            "Termcard",
-            true,
-            true
+            "Termcard"
         ],
         [
             "/1stTeam",
-            "1st Team",
-            false,
-            true
+            "1st Team"
         ],
         [
             "/2ndTeam",
-            "2nd Team",
-            false,
-            true
+            "2nd Team"
         ],
         [
             "/3rdTeam",
-            "3rd Team",
-            false,
-            true
+            "3rd Team"
         ],
         [
             "/classes",
-            "Classes",
-            false,
-            true
+            "Classes"
         ]
     ],
     "members": [
@@ -66,43 +48,35 @@
 		"Join",
         [
             "/membership",
-            "Membership",
-            false,
-            true
+            "Membership"
         ],
         [
             "/committee",
-            "Current Committee",
-            false,
-            true
+            "Current Committee"
         ],
         [
             "/historical_committee",
-            "Past Officers",
-            false,
-            true
+            "Past Officers"
         ]
     ],
     "contact": [
 		"right",
-		"Contact",
+		"About",
+        [
+            "/venues",
+            "Venues"
+        ],
         [
             "/contact",
-            "Contact Us",
-            false,
-            true
+            "Contact Us"
         ],
         [
             "/maillists",
-            "Join our Mailing Lists",
-            false,
-            true
+            "Join our Mailing Lists"
 		],
 		[
 			"/payments",
-			"Payments",
-			false,
-			true
+			"Payments"
 		]
 	],
 	"sponsors": [
@@ -114,21 +88,15 @@
 		"Events",
 		[
 			"/varsity",
-			"Varsity",
-			false,
-			true	
+			"Varsity"
 		],
         [
             "/tournament",
-            "Congress",
-            false,
-            true
+            "Congress"
         ],
         [
             "/other_events",
-            "150th",
-            false,
-            true
+            "150th"
         ]
     ]
 }

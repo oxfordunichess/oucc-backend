@@ -80,6 +80,9 @@
     "varsity": {
         "title": "Varsity",
 		"parent": "tournament"
+	},
+	"venues": {
+		"title": "Venues",
+		"parent": "contact"
 	}
-	
 }
