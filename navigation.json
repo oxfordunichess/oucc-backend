@@ -1,78 +1,78 @@
 {
-    "news": [
+	"news": [
 		"left",
 		"News",
-        [
-            "/curr_news",
-            "Current News"
-        ],
-        [
-            "/old_news",
-            "News Archive"
-        ]
-    ],
-    "leagues": [
+		[
+			"/curr_news",
+			"Current News"
+		],
+		[
+			"/old_news",
+			"News Archive"
+		]
+	],
+	"leagues": [
 		"left",
 		"Play",
-        [
-            "/boxleague",
-            "Club League"
-        ],
-        [
-            "/leagues",
-            "Teams"
-        ],
-        [
-            "/termcard",
-            "Termcard"
-        ],
-        [
-            "/1stTeam",
-            "1st Team"
-        ],
-        [
-            "/2ndTeam",
-            "2nd Team"
-        ],
-        [
-            "/3rdTeam",
-            "3rd Team"
-        ],
-        [
-            "/classes",
-            "Classes"
-        ]
-    ],
-    "members": [
+		[
+			"/boxleague",
+			"Club League"
+		],
+		[
+			"/leagues",
+			"Teams"
+		],
+		[
+			"/termcard",
+			"Termcard"
+		],
+		[
+			"/1stTeam",
+			"1st Team"
+		],
+		[
+			"/2ndTeam",
+			"2nd Team"
+		],
+		[
+			"/3rdTeam",
+			"3rd Team"
+		],
+		[
+			"/classes",
+			"Classes"
+		]
+	],
+	"members": [
 		"right",
 		"Join",
-        [
-            "/membership",
-            "Membership"
-        ],
-        [
-            "/committee",
-            "Current Committee"
-        ],
-        [
-            "/historical_committee",
-            "Past Officers"
-        ]
-    ],
-    "contact": [
+		[
+			"/membership",
+			"Membership"
+		],
+		[
+			"/committee",
+			"Current Committee"
+		],
+		[
+			"/historical_committee",
+			"Past Officers"
+		]
+	],
+	"contact": [
 		"right",
 		"About",
-        [
-            "/venues",
-            "Venues"
-        ],
-        [
-            "/contact",
-            "Contact Us"
-        ],
-        [
-            "/maillists",
-            "Join our Mailing Lists"
+		[
+			"/venues",
+			"Venues"
+		],
+		[
+			"/contact",
+			"Contact Us"
+		],
+		[
+			"/maillists",
+			"Join our Mailing Lists"
 		],
 		[
 			"/payments",
@@ -83,20 +83,20 @@
 		"right",
 		"Sponsors"
 	],
-    "events": [
+	"events": [
 		"left",
 		"Events",
 		[
 			"/varsity",
 			"Varsity"
 		],
-        [
-            "/tournament",
-            "Congress"
-        ],
-        [
-            "/other_events",
-            "150th"
-        ]
-    ]
+		[
+			"/tournament",
+			"Congress"
+		],
+		[
+			"/other_events",
+			"150th"
+		]
+	]
 }

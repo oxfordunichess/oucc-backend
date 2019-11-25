@@ -13,72 +13,72 @@
 		"redirect": "/varsity"
 	},
 
-    "1stTeam": {
+	"1stTeam": {
 		"title": "First Team",
 		"parent": "leagues"
-    },
-    "2ndTeam": {
-        "title": "Second Team",
+	},
+	"2ndTeam": {
+		"title": "Second Team",
 		"parent": "leagues"
-    },
-    "3rdTeam": {
-        "title": "Third Team",
+	},
+	"3rdTeam": {
+		"title": "Third Team",
 		"parent": "leagues"
-    },
-    "archive": {
-        "title": "Archive",
+	},
+	"archive": {
+		"title": "Archive",
 		"parent": "news"
-    },
-    "classes": {
-        "title": "Classes",
+	},
+	"classes": {
+		"title": "Classes",
 		"parent": "leagues"
-    },
-    "committee": {
-        "title": "Committee",
+	},
+	"committee": {
+		"title": "Committee",
 		"parent": "members"
 	},
-    "historical_committee": {
-        "title": "Historical Committee",
+	"historical_committee": {
+		"title": "Historical Committee",
 		"parent": "members"
 	},
-    "old_news": {
-        "title": "Old News",
+	"old_news": {
+		"title": "Old News",
 		"parent": "news"
-    },
-    "other_events": {
-        "title": "Other Events",
+	},
+	"other_events": {
+		"title": "Other Events",
 		"parent": "tournament"
-    },
-    "leagues": {
-        "title": "Leagues",
+	},
+	"leagues": {
+		"title": "Leagues",
 		"parent": "leagues"
-    },
-    "maillists": {
+	},
+	"maillists": {
 		"title": "Mailing Lists",
 		"parent": "contact"
-    },
-    "main": {
-        "title": "",
+	},
+	"main": {
+		"title": "",
 		"parent": "main"
 	},
-    "membership": {
-        "title": "Membership",
+	"membership": {
+		"title": "Membership",
 		"parent": "members"
 	},
 	"payments": {
 		"title": "Payments",
 		"parent": "contact"
 	},
-    "sponsors": {
+	"sponsors": {
 		"title": "Sponsors",
 		"parent": "sponsors"
-    },
-    "tournament": {
+	},
+	"tournament": {
 		"title": "Tournament",
 		"parent": "tournament"
-    },
-    "varsity": {
-        "title": "Varsity",
+	},
+	"varsity": {
+		"title": "Varsity",
 		"parent": "tournament"
 	},
 	"venues": {
