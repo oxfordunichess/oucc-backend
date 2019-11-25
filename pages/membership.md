@@ -2,7 +2,16 @@
 
 ## Club Membership
 
-We are an open, friendly organisation and welcome all non-members to come along to our events free-of-charge on a trial basis. However, if you wish to represent the university in matches and tournaments against other universities, or find yourself coming to our events often (especially classes and league matches) we will ask you to pay one of our two membership rates:
+We are an open, friendly organisation and welcome all non-members to come along to our events free-of-charge on a trial basis. We invite attendance from anyone attending:
+- University of Oxford
+- Oxford Brookes
+- The Saïd Business School
+- The EM Normandie Business School
+- Oxford Martin School
+
+## Cost
+
+Anyone is welcome to attend our club events. For some matches against other universities, we will require you to be a matriculated member of the university to play. If you represent the uni or find yourself coming to our events often (especially classes and league matches) we will ask you to pay one of our two membership rates:
 
 1. Yearly Membership: £15
 2. Life Membership: £25

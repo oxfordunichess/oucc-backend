@@ -2,28 +2,54 @@
 
 If you've used git before, just go ahead and fork the repository! Otherwise read the follwoing steps to learn how to do it.
 
-## Getting Started
+# Getting Started
 
-Set up your workdpace for adding your file is really easy, just press the 'Create new file' button. To edit an old file, just click on it.
+Set up your workspace for adding your file is really easy, just press the 'Create new file' button. To edit an old file, just click on it.
 
 ![](../onboarding/getting-started.jpg)
 
-## Adding details to your file
+# Adding details to your file
 
-There's three elements you need to add to your file.
+There's a few elements you need to add to your file.
+
+![](../onboarding/editing.jpg)
 
 ### 1. The filename
 
-Should be in 
+Should be in the format **yyyy-mm-dd_name.md**. Make sure you write `.md` at the end or it won't work! The date controls the order of where it appears on the page. 
 
-## Here's where I'd write the header, ex: Intro to editing on GitHub
+### 2. The header
 
-### Here's where I'd write the subheader, traditionally date and author such as:
-### November 22nd 2019 - by Aloysius Lip
+ex: `## Intro to editing on GitHub`. Call it something short and catchy. Preface it with two hashes (`##`)
 
-Then the text of 
+### 3. The subtitle
 
-## Editing format
+ex: Usually write the date, the author, and where the event took place here. Plus a catchy subtitle if you can - think Cherwell or the Economist. Preface each one with three hashes (`###`).
+
+### 4. The body
+
+THe main content of your article! Copy and paste it in from a draft in Word if you so wish. I'd try and make this fairly succint - if you see how they get displayed [on the website](http://users.ox.ac.uk/~chess/curr_news) you'll see that shorter is better. Maybe if we switch to whole-page articles in the future longer will be better.
+
+See below for guidance on editing style.
+
+### 5. The 'change message'
+
+You're done! Now you need to just summarise what you've done for reference purposes. That's in the first box at the bottom. Only needs to a short half-sentence, like `Added a new article on uni1 match` or `Fixed punctuation in FWS report`.
+
+### 6. Press the submit buttons twice.
+
+- The first one is a `Propose New File` button circled in the above image.
+- The second one is a `Create pull request` button on the next page.
+
+Both are highlighted green. You **must** click both.
+
+![](../onboarding/create-pr.jpg)
+
+### 7. Press the 'preview' button at any time on the editing page to preview your changes.
+
+At the top, right above your title, there should be a preview button. Will let you view your changes.
+
+# Editing format
 
 Copy and paste the [template](https://github.com/oxfordunichess/oucc-backend/blob/master/news/yyyy-mm-dd_TEMPLATE.md) to get started easily.
 
@@ -39,7 +65,7 @@ Should be done in the format:
 
 `![](../images/{YOUR_ARTICLE_NAME}.jpg)`
 
-or `.png` or whatever file-extension. Upload your image to the `/images` folder. Alternatively you can link to an external site by replacing the entire content in the `()`. Example:
+or `.png` or whatever file-extension. Upload your image to the [`/images`](https://github.com/oxfordunichess/oucc-backend/tree/master/images) folder. Alternatively you can link to an external site by replacing the entire content in the `()`. Example:
 
 `![](../images/cuppers1.jpg)`
 `![](https://cdn.cherwell.org/wp-content/uploads/2019/06/30010234/chess-club.jpg)`
