@@ -4,6 +4,8 @@ If you've used git before, just go ahead and fork the repository! Otherwise read
 
 # Getting Started
 
+All the files for articles are located in [this folder](https://github.com/oxfordunichess/oucc-backend/tree/master/news), as is a copy of this guide. Go to here to get started.
+
 Set up your workspace for adding your file is really easy, just press the 'Create new file' button. To edit an old file, just click on it.
 
 ![](../onboarding/getting-started.jpg)

@@ -73,6 +73,10 @@
 		"title": "Sponsors",
 		"parent": "sponsors"
 	},
+	"termcard": {
+		"title": "Termcard",
+		"parent": "leagues"
+	},
 	"tournament": {
 		"title": "Tournament",
 		"parent": "tournament"
