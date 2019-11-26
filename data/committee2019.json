@@ -1,7 +1,7 @@
 [
     {
         "name": "Andrew Rogozinski",
-        "college": "Worcester",
+        "college": "Worcester College",
         "position": "President"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "name": "Filip Mihov",
-        "college": "Balliol",
+        "college": "Balliol College",
         "position": "Secretary"
     },
     {
@@ -21,27 +21,47 @@
     },
     {
         "name": "Daniel Abbas",
-        "college": "Magdalen",
+        "college": "Magdalen College",
         "position": "Varsity Captain"
     },
     {
         "name": "Filip Mihov",
-        "college": "Balliol",
+        "college": "Balliol College",
         "position": "First Team Captain"
     },
     {
         "name": "Kevin Henbest",
-        "college": "Chemistry Dept",
+        "college": "Chemistry Department",
         "position": "Second Team Captain"
     },
     {
         "name": "Boris Gusev",
-        "college": "St. Hilda's",
+        "college": "St. Hilda's College",
         "position": "Third Team Captain"
+    },
+    {
+        "name": "Dan Sutton",
+        "college": "St. John's College",
+        "position": "Outreach Officer"
+    },
+    {
+        "name": "Ben Greenbury",
+        "college": "Jesus College",
+        "position": "Cuppers League Officer"
+    },
+    {
+        "name": "Victor Văsieșiu",
+        "college": "Hertford College",
+        "position": "Teaching Officer"
+    },
+    {
+        "name": "Dan Sutton",
+        "college": "St John's College",
+        "position": "Graduates' Officer"
     },
     {
         "name": "Aloysius Lip",
         "college": "Christ Church",
-        "position": "Webmaster"
+        "position": "Digital Officer"
     }
 ]
