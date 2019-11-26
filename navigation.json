@@ -15,16 +15,12 @@
 		"left",
 		"Play",
 		[
-			"/boxleague",
-			"Club League"
+			"/termcard",
+			"Termcard"
 		],
 		[
 			"/leagues",
-			"Teams"
-		],
-		[
-			"/termcard",
-			"Termcard"
+			"ODCL"
 		],
 		[
 			"/1stTeam",
