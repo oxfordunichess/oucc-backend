@@ -77,6 +77,10 @@
 		"title": "Termcard",
 		"parent": "leagues"
 	},
+	"termcard_hilary": {
+		"title": "Termcard",
+		"parent": "leagues"
+	},
 	"tournament": {
 		"title": "Tournament",
 		"parent": "tournament"
