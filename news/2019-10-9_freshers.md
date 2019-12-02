@@ -3,7 +3,7 @@
 ### 9th October 2019 - by Aloysius Lip
 
 ![](../images/pub1.jpg)
-![](../images/pub2.jpg)
+![](../images/freshers.jpg)
 
 We really enjoyed meeting you all at freshers' fair and welcome drinks!
 
