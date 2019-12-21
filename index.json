@@ -12,6 +12,9 @@
 	"events": {
 		"redirect": "/varsity"
 	},
+	"termcard/ht20": {
+		"redirect": "/termcard"
+	},
 
 	"1stTeam": {
 		"title": "First Team",
@@ -74,10 +77,12 @@
 		"parent": "sponsors"
 	},
 	"termcard": {
+		"file": "termcard_hilary",
 		"title": "Termcard",
 		"parent": "leagues"
 	},
-	"termcard_hilary": {
+	"termcard/mt19": {
+		"file": "termcard_michaelmas",
 		"title": "Termcard",
 		"parent": "leagues"
 	},
