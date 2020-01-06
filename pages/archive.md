@@ -76,145 +76,75 @@ The best game was awarded to Raja Panjwani for his win over Sam Franklin, and th
 The 2012 Freshers' Varsity Match ended in a victory for Oxford over Cambridge at 6.5 - 5.5\. The results were:  
 
 <table>
-
-<tbody>
-
-<tr>
-
-<td>**Oxford**</td>
-
-<td>**Score**</td>
-
-<td>**Cambridge**</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<td>Jan Schmidt</td>
-
-<td>0-1</td>
-
-<td>Sam Franklin</td>
-
-</tr>
-
-<tr>
-
-<td>Pranjal</td>
-
-<td>0-1</td>
-
-<td>Richard Weaving</td>
-
-</tr>
-
-<tr>
-
-<td>James Foster</td>
-
-<td>1-0</td>
-
-<td>Daniel Hunt</td>
-
-</tr>
-
-<tr>
-
-<td>Rhys Cumming</td>
-
-<td>1-0</td>
-
-<td>Vepa Malikgulyyev</td>
-
-</tr>
-
-<tr>
-
-<td>Dashiell Shaw</td>
-
-<td>1-0</td>
-
-<td>Sameli Nath</td>
-
-</tr>
-
-<tr>
-
-<td>Joshua Tan</td>
-
-<td>1-0</td>
-
-<td>Robert Starley</td>
-
-</tr>
-
-<tr>
-
-<td>Howard Chiu</td>
-
-<td>0.5-0.5</td>
-
-<td>Boyd Siripornpitak</td>
-
-</tr>
-
-<tr>
-
-<td>Shubham Anand</td>
-
-<td>1-0</td>
-
-<td>Ruby Marsden</td>
-
-</tr>
-
-<tr>
-
-<td>Ralph Wu</td>
-
-<td>0-1</td>
-
-<td>Jeppe Hallgren</td>
-
-</tr>
-
-<tr>
-
-<td>Sam Bentham</td>
-
-<td>0-1</td>
-
-<td>Ali Abdaal</td>
-
-</tr>
-
-<tr>
-
-<td>Naveen Mortha</td>
-
-<td>0-1</td>
-
-<td>Anand Srinivasan</td>
-
-</tr>
-
-<tr>
-
-<td>Ben Gardener</td>
-
-<td>1-0</td>
-
-<td>(default)</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<td>**Oxford**</td>
+			<td>**Score**</td>
+			<td>**Cambridge**</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td>Jan Schmidt</td>
+			<td>0-1</td>
+			<td>Sam Franklin</td>
+		</tr>
+		<tr>
+			<td>Pranjal</td>
+			<td>0-1</td>
+			<td>Richard Weaving</td>
+		</tr>
+		<tr>
+			<td>James Foster</td>
+			<td>1-0</td>
+			<td>Daniel Hunt</td>
+		</tr>
+		<tr>
+			<td>Rhys Cumming</td>
+			<td>1-0</td>
+			<td>Vepa Malikgulyyev</td>
+		</tr>
+		<tr>
+			<td>Dashiell Shaw</td>
+			<td>1-0</td>
+			<td>Sameli Nath</td>
+		</tr>
+		<tr>
+			<td>Joshua Tan</td>
+			<td>1-0</td>
+			<td>Robert Starley</td>
+		</tr>
+		<tr>
+			<td>Howard Chiu</td>
+			<td>0.5-0.5</td>
+			<td>Boyd Siripornpitak</td>
+		</tr>
+		<tr>
+			<td>Shubham Anand</td>
+			<td>1-0</td>
+			<td>Ruby Marsden</td>
+		</tr>
+		<tr>
+			<td>Ralph Wu</td>
+			<td>0-1</td>
+			<td>Jeppe Hallgren</td>
+		</tr>
+		<tr>
+			<td>Sam Bentham</td>
+			<td>0-1</td>
+			<td>Ali Abdaal</td>
+		</tr>
+		<tr>
+			<td>Naveen Mortha</td>
+			<td>0-1</td>
+			<td>Anand Srinivasan</td>
+		</tr>
+		<tr>
+			<td>Ben Gardener</td>
+			<td>1-0</td>
+			<td>(default)</td>
+		</tr>
+	</tbody>
 </table>
 
 </div>
@@ -240,101 +170,53 @@ The Oxford University Chess Club has celebrated the end of a highly successful y
 The annual Town v Gown chess match was played over nine boards on 14 May at St Hugh's College. Town proved to be the stronger team and won 7.5-1.5\. This was their second consecutive title. The results in full were:  
 
 <table>
-
-<tbody>
-
-<tr>
-
-<td>Jason McKenna (184)</td>
-
-<td>1-0</td>
-
-<td>Richard Lobo (159)</td>
-
-</tr>
-
-<tr>
-
-<td>Jon D'Souza-Eva (181)</td>
-
-<td>1-0</td>
-
-<td>Daniel Rey (159)</td>
-
-</tr>
-
-<tr>
-
-<td>Karlmarx Rajangam (176)</td>
-
-<td>1-0</td>
-
-<td>Sam Woolacott (159)</td>
-
-</tr>
-
-<tr>
-
-<td>Matthew Daggitt (174)</td>
-
-<td>1-0</td>
-
-<td>Ren Zhang (ung.)</td>
-
-</tr>
-
-<tr>
-
-<td>Will Burt (168)</td>
-
-<td>0.5-0.5</td>
-
-<td>Thomas Lessinnes (ung.)</td>
-
-</tr>
-
-<tr>
-
-<td>Simon King (146)</td>
-
-<td>0-1</td>
-
-<td>Erik Thornblad (ung.)</td>
-
-</tr>
-
-<tr>
-
-<td>Ruby Marsden (135)</td>
-
-<td>1-0</td>
-
-<td>Adam Bailey (ung.)</td>
-
-</tr>
-
-<tr>
-
-<td>David Sayers (143)</td>
-
-<td>1-0</td>
-
-<td>Noam Finkelstein (ung.)</td>
-
-</tr>
-
-<tr>
-
-<td>Kelly Riley (132)</td>
-
-<td>1-0</td>
-
-<td>Stephen Belding (92)</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<td>Jason McKenna (184)</td>
+			<td>1-0</td>
+			<td>Richard Lobo (159)</td>
+		</tr>
+		<tr>
+			<td>Jon D'Souza-Eva (181)</td>
+			<td>1-0</td>
+			<td>Daniel Rey (159)</td>
+		</tr>
+		<tr>
+			<td>Karlmarx Rajangam (176)</td>
+			<td>1-0</td>
+			<td>Sam Woolacott (159)</td>
+		</tr>
+		<tr>
+			<td>Matthew Daggitt (174)</td>
+			<td>1-0</td>
+			<td>Ren Zhang (ung.)</td>
+		</tr>
+		<tr>
+			<td>Will Burt (168)</td>
+			<td>0.5-0.5</td>
+			<td>Thomas Lessinnes (ung.)</td>
+		</tr>
+		<tr>
+			<td>Simon King (146)</td>
+			<td>0-1</td>
+			<td>Erik Thornblad (ung.)</td>
+		</tr>
+		<tr>
+			<td>Ruby Marsden (135)</td>
+			<td>1-0</td>
+			<td>Adam Bailey (ung.)</td>
+		</tr>
+		<tr>
+			<td>David Sayers (143)</td>
+			<td>1-0</td>
+			<td>Noam Finkelstein (ung.)</td>
+		</tr>
+		<tr>
+			<td>Kelly Riley (132)</td>
+			<td>1-0</td>
+			<td>Stephen Belding (92)</td>
+		</tr>
+	</tbody>
 </table>
 
 Thank you to everyone who played, and in particular to Gerard O'Reilly, captain of the Town team, for helping to organise the event.</div>
@@ -352,105 +234,55 @@ The 129<sup>th</sup> Oxford vs Cambridge chess match was held on the 5<sup>th</s
 The results were:  
 
 <table>
-
-<tbody>
-
-<tr>
-
-<td>Oxford</td>
-
-<td>Score</td>
-
-<td>Cambridge</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<td>GM Amon Simutowe</td>
-
-<td>0.5-0.5</td>
-
-<td>IM Gabor Pinter</td>
-
-</tr>
-
-<tr>
-
-<td>David Zakarian</td>
-
-<td>1-0</td>
-
-<td>Peter Roberson</td>
-
-</tr>
-
-<tr>
-
-<td>FM Ravi Shanmugam</td>
-
-<td>1-0</td>
-
-<td>Mitesh Shridhar</td>
-
-</tr>
-
-<tr>
-
-<td>Thanasis Thanas</td>
-
-<td>0.5-0.5</td>
-
-<td>Christopher Graw</td>
-
-</tr>
-
-<tr>
-
-<td>Robbie Coleman</td>
-
-<td>1-0</td>
-
-<td>Sven Quist</td>
-
-</tr>
-
-<tr>
-
-<td>Steffen Schaper</td>
-
-<td>0.5-0.5</td>
-
-<td>Mikhail Tyomkyn</td>
-
-</tr>
-
-<tr>
-
-<td>Murray David</td>
-
-<td>0-1</td>
-
-<td>Richard Lee</td>
-
-</tr>
-
-<tr>
-
-<td>Susan Yu</td>
-
-<td>0-1</td>
-
-<td>Isabella Khazagerova</td>
-
-</tr>
-
-</tbody>
-
+	<tbody>
+		<tr>
+			<td>Oxford</td>
+			<td>Score</td>
+			<td>Cambridge</td>
+		</tr>
+	</tbody>
+	<tbody>
+		<tr>
+			<td>GM Amon Simutowe</td>
+			<td>0.5-0.5</td>
+			<td>IM Gabor Pinter</td>
+		</tr>
+		<tr>
+			<td>David Zakarian</td>
+			<td>1-0</td>
+			<td>Peter Roberson</td>
+		</tr>
+		<tr>
+			<td>FM Ravi Shanmugam</td>
+			<td>1-0</td>
+			<td>Mitesh Shridhar</td>
+		</tr>
+		<tr>
+			<td>Thanasis Thanas</td>
+			<td>0.5-0.5</td>
+			<td>Christopher Graw</td>
+		</tr>
+		<tr>
+			<td>Robbie Coleman</td>
+			<td>1-0</td>
+			<td>Sven Quist</td>
+		</tr>
+		<tr>
+			<td>Steffen Schaper</td>
+			<td>0.5-0.5</td>
+			<td>Mikhail Tyomkyn</td>
+		</tr>
+		<tr>
+			<td>Murray David</td>
+			<td>0-1</td>
+			<td>Richard Lee</td>
+		</tr>
+		<tr>
+			<td>Susan Yu</td>
+			<td>0-1</td>
+			<td>Isabella Khazagerova</td>
+		</tr>
+	</tbody>
 </table>
 
 We are grateful to the RAC, especially Henry Mutkin, for organising this event.  
