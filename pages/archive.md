@@ -1,5 +1,3 @@
-<div class="article">
-
 ## Varsity Matches 2013 Report
 
 ### Sat, 16 Mar 2013 15:12:00 -0700
@@ -65,9 +63,9 @@ The best game was awarded to Raja Panjwani for his win over Sam Franklin, and th
 		</tr>
 	</tbody>
 </table>
-</div>
 
-<div class="article">
+
+---
 
 ## Oxford Win Freshers' Varsity 2012
 
@@ -147,9 +145,7 @@ The 2012 Freshers' Varsity Match ended in a victory for Oxford over Cambridge at
 	</tbody>
 </table>
 
-</div>
-
-<div class="article">
+---
 
 ## OUCC Celebrates a Successful Year
 
@@ -157,11 +153,9 @@ The 2012 Freshers' Varsity Match ended in a victory for Oxford over Cambridge at
 
 The Oxford University Chess Club has celebrated the end of a highly successful year. In the past 12 months we have become the British University Champions and have won all three annual matches against the University of Cambridge, (Varsity, Second's Varsity and Freshers' Varsity). The players from the 1st varsity team were awarded Mindsport Blues during a formal cheese and wine evening in St John's College (organised jointly with the Oxford University Quiz Society). We are grateful to CJ de Mooi (President of the English Chess Federation) for kindly accepting our invitation to be guest speaker.  
 
-<div style="clear:both;text-align:center">[![](http://4.bp.blogspot.com/-vrlcUc-eP7I/UX6W8zF3c1I/AAAAAAAAABw/qqFEQ3Dtfns/s640/cj_chess_quiz_small.jpg)](http://4.bp.blogspot.com/-vrlcUc-eP7I/UX6W8zF3c1I/AAAAAAAAABw/qqFEQ3Dtfns/s1600/cj_chess_quiz_small.jpg)</div>
+[![](http://4.bp.blogspot.com/-vrlcUc-eP7I/UX6W8zF3c1I/AAAAAAAAABw/qqFEQ3Dtfns/s640/cj_chess_quiz_small.jpg)](http://4.bp.blogspot.com/-vrlcUc-eP7I/UX6W8zF3c1I/AAAAAAAAABw/qqFEQ3Dtfns/s1600/cj_chess_quiz_small.jpg)
 
-</div>
-
-<div class="article">
+---
 
 ## Town Versus Gown Results
 
@@ -219,9 +213,9 @@ The annual Town v Gown chess match was played over nine boards on 14 May at St H
 	</tbody>
 </table>
 
-Thank you to everyone who played, and in particular to Gerard O'Reilly, captain of the Town team, for helping to organise the event.</div>
+Thank you to everyone who played, and in particular to Gerard O'Reilly, captain of the Town team, for helping to organise the event.
 
-<div class="article">
+---
 
 ## Oxford University Win the Annual Varsity Match against Cambridge
 
@@ -229,7 +223,7 @@ Thank you to everyone who played, and in particular to Gerard O'Reilly, captain 
 
 The 129<sup>th</sup> Oxford vs Cambridge chess match was held on the 5<sup>th</sup> of March in the RAC Clubhouse, Pall Mall. The match was won by Oxford University. The Bob Wade brilliancy prize was awarded to David Zakarian while the best game prize was awarded jointly to Thanasis Thanas and his opponent, Christopher Graw.  
 
-<div style="clear:both;text-align:center">[![](http://1.bp.blogspot.com/-tLjbm27WaDw/UX6Tii0ylcI/AAAAAAAAABc/wmns4NJYC90/s400/varsity_photo_small.jpg)](http://1.bp.blogspot.com/-tLjbm27WaDw/UX6Tii0ylcI/AAAAAAAAABc/wmns4NJYC90/s1600/varsity_photo_small.jpg)</div>
+[![](http://1.bp.blogspot.com/-tLjbm27WaDw/UX6Tii0ylcI/AAAAAAAAABc/wmns4NJYC90/s400/varsity_photo_small.jpg)](http://1.bp.blogspot.com/-tLjbm27WaDw/UX6Tii0ylcI/AAAAAAAAABc/wmns4NJYC90/s1600/varsity_photo_small.jpg)
 
 The results were:  
 
@@ -287,9 +281,7 @@ The results were:
 
 We are grateful to the RAC, especially Henry Mutkin, for organising this event.  
 
-</div>
-
-<div class="article">
+---
 
 ## Oxford University are National Champions!
 
@@ -309,9 +301,9 @@ The 2<sup>nd</sup> annual British Universities Chess Association (BUCA) champion
 10.  LSE (3)
 11.  BCU (3)
 
-We are grateful to the BUCA committee, especially Alex Holowcza, for organising this event.</div>
+We are grateful to the BUCA committee, especially Alex Holowcza, for organising this event.
 
-<div class="article">
+---
 
 ## Oxford University Victorious in 2nds Varsity
 
@@ -319,11 +311,9 @@ We are grateful to the BUCA committee, especially Alex Holowcza, for organising 
 
 The 2011 2<sup>nds</sup> varsity match against the University of Cambridge was held on 12<sup>th</sup> February in Christ's College, Cambridge. Oxford University won the match with a score of 5.5-3.5\. A much deserved result- well done team!  
 
-<div style="clear:both;text-align:center">[![](http://1.bp.blogspot.com/-RBrPu2kyAO0/UX6R_jY3p2I/AAAAAAAAABQ/3DgBgULmtYs/s640/team_photo_small.jpg)](http://1.bp.blogspot.com/-RBrPu2kyAO0/UX6R_jY3p2I/AAAAAAAAABQ/3DgBgULmtYs/s1600/team_photo_small.jpg)</div>
+[![](http://1.bp.blogspot.com/-RBrPu2kyAO0/UX6R_jY3p2I/AAAAAAAAABQ/3DgBgULmtYs/s640/team_photo_small.jpg)](http://1.bp.blogspot.com/-RBrPu2kyAO0/UX6R_jY3p2I/AAAAAAAAABQ/3DgBgULmtYs/s1600/team_photo_small.jpg)
 
-</div>
-
-<div class="article">
+---
 
 ## Hilary Blitz Tournament
 
@@ -334,17 +324,17 @@ The Hilary Blitz Tournament was held on Tuesday 1<sup>st</sup> February. The eve
 1.  FM Ravindran Shanmugam
 2.  Marco Zhang
 
-Grading Prize: Gautam Rao</div>
+Grading Prize: Gautam Rao
 
-<div class="article">
+---
 
 ## Oxford University strike back in Freshers' Varsity
 
 ### Sun, 28 Nov 2010 08:30:00 -0800
 
-The 2010 freshers' varsity match against the University of Cambridge was held on 27<sup>th</sup> November in St John's College. Following 3 successive defeats, the players of Oxford University rallied to produced a decisive 8-4 win.</div>
+The 2010 freshers' varsity match against the University of Cambridge was held on 27<sup>th</sup> November in St John's College. Following 3 successive defeats, the players of Oxford University rallied to produced a decisive 8-4 win.
 
-<div class="article">
+---
 
 ## Michaelmas Blitz Tournament
 
@@ -356,9 +346,7 @@ The Michaelmas Blitz Tournament was held on Tuesday 23<sup>rd</sup> November. Th
 2.  Murray David
 3.  Steffen Schaper
 
-</div>
-
-<div class="article">
+---
 
 ## Oxford hold London Insurance to a draw
 
@@ -366,9 +354,7 @@ The Michaelmas Blitz Tournament was held on Tuesday 23<sup>rd</sup> November. Th
 
 The 103<sup>rd</sup> chess match between Oxford University and the Insurance Chess Club of London was held on 30th October 2010 in St John's College. Despite being completely composed of untested freshers, the Oxford team produced a stunning performance to gain a 3-3 draw with wins on the top two boards.
 
-</div>
-
-<div class="article">
+---
 
 ## Freshers' Blitz 2010
 
@@ -380,9 +366,7 @@ The Freshers' Blitz tournament was held on Tuesday 19<sup>th</sup> October. The 
 2.  Steffen Schaper
 3.  Ravindran Shanmugam (Best fresher)
 
-</div>
-
-<div class="article">
+---
 
 ## Oxford hold Cambridge to a draw
 
@@ -390,9 +374,7 @@ The Freshers' Blitz tournament was held on Tuesday 19<sup>th</sup> October. The 
 
 The 128<sup>th</sup> Varsity Chess Match between Oxford and Cambridge was held on 6 March 2010\. Despite being outrated on nearly all boards the Oxford team produced a superb performance to gain a 4-4 draw. A full report of the event is on the BCM website at [http://www.bcmchess.co.uk/news/varsity2010.html](http://www.bcmchess.co.uk/news/varsity2010.html). The games can be viewed on that site or downloaded in PGN format [here](http://users.ox.ac.uk/~chess/resources/2010var.pgn).
 
-</div>
-
-<div class="article">
+---
 
 ## British Universities' Chess Championships
 
@@ -400,9 +382,7 @@ The 128<sup>th</sup> Varsity Chess Match between Oxford and Cambridge was held o
 
 The Oxford team recovered from a disappointing draw with Durham 1 and an unfortunate defeat to UCL 1 to win their last three matches convincingly and finish in a very creditable third position. Our players' results are available [here](http://users.ox.ac.uk/~chess/resources/BUCAresults2009.pdf). Full results and games should soon be available on the [official tournament website](http://www.buca.org.uk).
 
-</div>
-
-<div class="article">
+---
 
 ## St. Hugh's Win Cuppers 2010
 
@@ -425,9 +405,9 @@ Special mentions should also go to the players on each board who scored the most
 *   Board 3 – Sam Evington, Worcester/Trinity and Will Faulks, Lincoln (4/5),
 *   Board 4 – Jay Unadkat, St. Hugh’s and Jack Binysh, Lincoln (4/5) .
 
-For a PDF file of all the results see [here](http://users.ox.ac.uk/~chess/resources/CuppersResults2010.pdf).</div>
+For a PDF file of all the results see [here](http://users.ox.ac.uk/~chess/resources/CuppersResults2010.pdf).
 
-<div class="article">
+---
 
 ## Oxford University Rapidplay 2009
 
@@ -437,35 +417,33 @@ On Saturday 7th November we ran our 7th Annual Oxford University Rapidplay tourn
 
 The U170 section proved to be very close, with the prize winners not being decided until the last few minutes of the final round. Indeed, for a while it looked possible that we might end up with a four-way tie for first place! However, Graham Alcock (Didcot) managed to pull through in his game against Ti Chen (Oxford University) to cap a magnificent 6/6 performance and take the victory. Ed Farrington (Oxford University) and Gary Jackson (Banbury) also managed to win tight games in the final round to secure joint second place between them. An impressive four straight wins to finish gave Tom Rixon (Hemel Hempstead) the U145 grading prize. Full results from this section are available [here](http://users.ox.ac.uk/~chess/resources/rapidplay2009/U170Crosstable.pdf).  
 
-The Open was just as interesting, with numerous talented juniors competing with some established names. In the end, the top seed, GM Alexander Cherniaev (Hackney) conceded just two draws, to Thanasis Tsanas (Oxford University) and James Holland (Maidenhead), on his way to claiming first place. The decisive result turned out to be Cherniaev’s impressive win against one of England’s most promising juniors, Brandon Clarke (Littlethorpe), in the penultimate round. Second place was shared by Holland, who was awarded the U190 grading prize, Tsanas and Clarke. A full crosstable is available [here](http://users.ox.ac.uk/~chess/resources/rapidplay2009/OpenCrosstable.pdf).</div>
+The Open was just as interesting, with numerous talented juniors competing with some established names. In the end, the top seed, GM Alexander Cherniaev (Hackney) conceded just two draws, to Thanasis Tsanas (Oxford University) and James Holland (Maidenhead), on his way to claiming first place. The decisive result turned out to be Cherniaev’s impressive win against one of England’s most promising juniors, Brandon Clarke (Littlethorpe), in the penultimate round. Second place was shared by Holland, who was awarded the U190 grading prize, Tsanas and Clarke. A full crosstable is available [here](http://users.ox.ac.uk/~chess/resources/rapidplay2009/OpenCrosstable.pdf).
 
-<div class="article">
+---
 
 ## Freshers' Blitz
 
 ### Thu, 05 Nov 2009 08:00:00 -0800
 
-We held our first ever Freshers' Blitz tournament on Tuesday 20th October. The tournament was contested by 21 players over 5 double rounds, and was enjoyed by all. Many congratulations to Gustavo German, who won with a magnificent score of 10/10\. Full results are available [here.](http://www.blogger.com/Freshers_Blitz.pdf)</div>
+We held our first ever Freshers' Blitz tournament on Tuesday 20th October. The tournament was contested by 21 players over 5 double rounds, and was enjoyed by all. Many congratulations to Gustavo German, who won with a magnificent score of 10/10\. Full results are available [here.](http://www.blogger.com/Freshers_Blitz.pdf)
 
-<div class="article">
+---
 
 ## 7th University Congress
 
 ### Wed, 20 May 2009 08:00:00 -0700
 
-The University Chess Club would like to thank everybody who participated in the 7<sup>th</sup> University Congress held on 16-17 May. We would like to congratulate the winners, especially Graham Morris who won the Peter Harrison Cup for best University player, and Yi Ming Lai who won the minor section with an impressive 4.5 out of 5\. Further details will be available shortly.</div>
+The University Chess Club would like to thank everybody who participated in the 7<sup>th</sup> University Congress held on 16-17 May. We would like to congratulate the winners, especially Graham Morris who won the Peter Harrison Cup for best University player, and Yi Ming Lai who won the minor section with an impressive 4.5 out of 5\. Further details will be available shortly.
 
-<div class="article">
+---
 
 ## Oxford Victorious in 127th Varsity Match
 
 ### Fri, 20 Mar 2009 08:00:00 -0700
 
-<div>The 127th Varsity Chess Match against Cambridge took place on Saturday 14 March 2009 at the RAC Club, Pall Mall, London. The Oxford team, captained by Michael Healey, scored a 5-3 victory against a considerably higher rated Cambridge side. For a full report, see [http://www.bcmchess.co.uk/news/varsity2009.html](http://www.bcmchess.co.uk/news/varsity2009.html). A PGN file of all 8 games can be downloaded [here](http://users.ox.ac.uk/~chess/resources/vars09.pgn).</div>
+The 127th Varsity Chess Match against Cambridge took place on Saturday 14 March 2009 at the RAC Club, Pall Mall, London. The Oxford team, captained by Michael Healey, scored a 5-3 victory against a considerably higher rated Cambridge side. For a full report, see [http://www.bcmchess.co.uk/news/varsity2009.html](http://www.bcmchess.co.uk/news/varsity2009.html). A PGN file of all 8 games can be downloaded [here](http://users.ox.ac.uk/~chess/resources/vars09.pgn).
 
-</div>
-
-<div class="article">
+---
 
 ## Keble Wins Chess Cuppers 2009
 
@@ -497,5 +475,3 @@ Final standings:
 6.  Merton Magic (Merton B)
 7.  St. Catz B
 8.  St. Catz A
-
-</div>
