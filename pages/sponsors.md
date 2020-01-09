@@ -2,4 +2,6 @@
 
 <Profile name='University of Oxford' links='Apply for a grant,https://www.ox.ac.uk/students/life/clubs/clubs/registered-clubs/club-grants?wssl=1' description='The Clubs Committee of the University of Oxford Administration Staff meets termly to decide on the award of small sums to registered non-sports clubs to support their activities. The qualifying eligibility falls under special purpose grants and loans, to larger non-sports clubs that are long-established (continuously registered for at least five years with a membership of at least 30 for the entire period).\nOUCC was awarded a grant for the Hilary Term of 2020.' thumbnail='oxford.png' />
 
+<Profile name='Jane Street' links='Join Jane Street,https://www.janestreet.com/join-jane-street/' description='Jane Street is a quantitative trading firm and global liquidity provider. Our trading is based on mathematical modeling and strategies and we use innovative technology, a scientific approach, and a deep understanding of markets to stay successful. With over 1000 employees in our New York, London, Amsterdam, and Hong Kong offices, that’s a lot of ideas. Our next great idea could come from you; what will you come up with?' thumbnail='jane_street.svg'>
+
 If you'd be interested in sponsoring the club, please [contact us](/contact) to get involved.
