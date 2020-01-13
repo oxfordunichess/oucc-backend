@@ -8,6 +8,7 @@ Any payments owed to the club can be made to the club's PayPal, by bank transfer
 
 ## Bank Transfer
 
+Account Name: Oxford University Chess Club
 Sort Code: **40-35-34**  
 Account Number: **90632937**
 
@@ -18,4 +19,4 @@ Email address: **oxfordunichess@gmail.com**
 
 ## Cash
 
-See our [termcard](/termcard) for a list of club meetings or events where out Treasurer might be available.
+See our [termcard](/termcard?all=false&club-nights=true) for a list of club meetings or events where out Treasurer might be available.

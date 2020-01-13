@@ -5,8 +5,8 @@ the Oxfordshire chess association.
 
 ## Hilary 2019
 
-Please view the [termcard](/termcard) and use the dates of 3rd-team fixtures.
+Please view the [termcard](/termcard?all=false&odcl-3rd-team=true) and use the dates of 3rd-team fixtures.
 
 ## Michaelmas 2018
 
-Michaelmas fixtures are available one the [Michaelmas Termcard](/termcard/mt19).
+Michaelmas fixtures are available one the [Michaelmas Termcard](/termcard/mt19?all=false&odcl-3rd-team=true).
