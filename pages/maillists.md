@@ -1,7 +1,7 @@
 # Join our Mailing List and facebook groups
 
-We regularly send out emails about events and other news running in Oxford. If you would like to receive these emails, please send an email to:  
-[Subscribe](http://eepurl.com/gn5Yxv)
+We regularly send out emails about events and other news running in Oxford. 
+[**Visit our MailChimp page**](https://mailchi.mp/e4bab2111329/oxfordunichess) to signup to our mailing list.
 	
 [//]: # (mailto:chess-subscribe@maillist.ox.ac.uk)
 

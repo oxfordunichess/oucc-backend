@@ -11,16 +11,12 @@
 			"News Archive"
 		]
 	],
-	"leagues": [
+	"play": [
 		"left",
 		"Play",
 		[
-			"/termcard",
-			"Termcard"
-		],
-		[
-			"/leagues",
-			"ODCL"
+			"/club",
+			"Club Nights"
 		],
 		[
 			"/1stTeam",
@@ -35,8 +31,8 @@
 			"3rd Team"
 		],
 		[
-			"/classes",
-			"Classes"
+			"/cuppers",
+			"Cuppers"
 		]
 	],
 	"members": [
@@ -53,22 +49,26 @@
 		[
 			"/historical_committee",
 			"Past Officers"
+		],
+		[
+			"/teaching",
+			"Teaching"
 		]
 	],
 	"contact": [
 		"right",
 		"About",
 		[
-			"/venues",
-			"Venues"
+			"/maillists",
+			"Join our Mailing Lists"
 		],
 		[
 			"/contact",
 			"Contact Us"
 		],
 		[
-			"/maillists",
-			"Join our Mailing Lists"
+			"/venues",
+			"Venues"
 		],
 		[
 			"/payments",
@@ -81,18 +81,26 @@
 	],
 	"events": [
 		"left",
-		"Events",
+		"Events",	
+		[
+			"/termcard",
+			"Termcard"
+		],	
+		[
+			"/events",
+			"Events"
+		],
 		[
 			"/varsity",
 			"Varsity"
 		],
 		[
-			"/tournament",
-			"Congress"
+			"/tournaments",
+			"External Tournaments"
 		],
 		[
-			"/other_events",
-			"150th"
+			"/socials",
+			"Socials"
 		]
 	]
 }
