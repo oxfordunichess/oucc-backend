@@ -9,11 +9,17 @@
 	"index.html": {
 		"redirect": "/"
 	},
+	"termcard/ht20": {
+		"redirect": "/termcard"
+	},
 	"news": {
 		"redirect": "/curr_news"
 	},
-	"termcard/ht20": {
-		"redirect": "/termcard"
+	"about": {
+		"redirect": "/contact"
+	},
+	"join": {
+		"redirect": "/membership"
 	},
 	"play": {
 		"redirect": "/club"
