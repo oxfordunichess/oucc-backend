@@ -75,6 +75,11 @@
 		"parent": "join",
 		"description": "A number of famous people have held officership within OUCC. You can search the names of our past officers below:"
 	},
+	"outreach": {
+		"title": "Outreach",
+		"parent": "about",
+		"description": "Oxford University Chess Club is working with [hess in Schools to offer local volunteer teaching."
+	},
 	"old_news": {
 		"title": "Old News",
 		"parent": "news",
