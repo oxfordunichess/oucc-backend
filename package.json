@@ -4,7 +4,8 @@
 	"description": "Serve markdown files from here so that we can easily/quickly edit",
 	"main": "index.html",
 	"scripts": {
-		"start": "node serve.js",
+		"start": "node scripts/serve.js",
+		"compress": "node scripts/compress.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
@@ -25,6 +26,7 @@
 	},
 	"homepage": "https://github.com/oxfordunichess/oucc-backend#readme",
 	"devDependencies": {
-		"express": "^4.17.1"
+		"express": "^4.17.1",
+		"jimp": "^0.9.3"
 	}
 }
