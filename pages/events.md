@@ -23,7 +23,101 @@ The Oxford Congress was last held in 2008. Provisional dates for the 2020 Congre
 
 ## 150th Anniversary Celebration
 
-In 2019, the Oxford University Chess Club celebrated its 150th anniversary, a milestone longer than any other university club. The OUCC plans to hold a belated celebration for this occasion. All alumni of the OUCC are invited to come. The provisional date for this event is the **6th week of Hilary** a.k.a. the **29th February 2020**.
+In 2019, the Oxford University Chess Club celebrated its 150th anniversary, a milestone longer than any other university club. The OUCC plans to hold a belated celebration for this occasion. All alumni of the OUCC are invited to come. The confirmed date for this event is the **1st week of Trinity** a.k.a. Saturday the **29th February 2020**.
+
+
+<iframe
+	id="JotFormIFrame-200493388708362"
+	title="Oxford University Chess Club 150th Anniversary Dinner"
+	onload="window.parent.scrollTo(0,0)"
+	allowtransparency="true"
+	allowfullscreen="true"
+	allow="geolocation; microphone; camera"
+	src="https://form.jotform.com/200493388708362"
+	frameborder="0"
+	style="
+	min-width: 100%;
+	height:539px;
+	border:none;"
+	scrolling="no"
+/>
+<!---
+    <script type = "text/javascript">
+    	var ifr = document.getElementById("JotFormIFrame-200493388708362");
+    if (window.location.href && window.location.href.indexOf("?") > -1) {
+    	var get = window.location.href.substr(window.location.href.indexOf("?") + 1);
+    	if (ifr && get.length > 0) {
+    		var src = ifr.src;
+    		src = src.indexOf("?") > -1 ? src + "&" + get : src + "?" + get;
+    		ifr.src = src;
+    	}
+    }
+    window.handleIFrameMessage = function (e) {
+    	if (typeof e.data === 'object') {
+    		return;
+    	}
+    	var args = e.data.split(":");
+    	if (args.length > 2) {
+    		iframe = document.getElementById("JotFormIFrame-" + args[(args.length - 1)]);
+    	} else {
+    		iframe = document.getElementById("JotFormIFrame");
+    	}
+    	if (!iframe) {
+    		return;
+    	}
+    	switch (args[0]) {
+    		case "scrollIntoView":
+    			iframe.scrollIntoView();
+    			break;
+    		case "setHeight":
+    			iframe.style.height = args[1] + "px";
+    			break;
+    		case "collapseErrorPage":
+    			if (iframe.clientHeight > window.innerHeight) {
+    				iframe.style.height = window.innerHeight + "px";
+    			}
+    			break;
+    		case "reloadPage":
+    			window.location.reload();
+    			break;
+    		case "loadScript":
+    			var src = args[1];
+    			if (args.length > 3) {
+    				src = args[1] + ':' + args[2];
+    			}
+    			var script = document.createElement('script');
+    			script.src = src;
+    			script.type = 'text/javascript';
+    			document.body.appendChild(script);
+    			break;
+    		case "exitFullscreen":
+    			if (window.document.exitFullscreen) window.document.exitFullscreen();
+    			else if (window.document.mozCancelFullScreen) window.document.mozCancelFullScreen();
+    			else if (window.document.mozCancelFullscreen) window.document.mozCancelFullScreen();
+    			else if (window.document.webkitExitFullscreen) window.document.webkitExitFullscreen();
+    			else if (window.document.msExitFullscreen) window.document.msExitFullscreen();
+    			break;
+    	}
+    	var isJotForm = (e.origin.indexOf("jotform") > -1) ? true : false;
+    	if (isJotForm && "contentWindow" in iframe && "postMessage" in iframe.contentWindow) {
+    		var urls = {
+    			"docurl": encodeURIComponent(document.URL),
+    			"referrer": encodeURIComponent(document.referrer)
+    		};
+    		iframe.contentWindow.postMessage(JSON.stringify({
+    			"type": "urls",
+    			"value": urls
+    		}), "*");
+    	}
+    };
+    if (window.addEventListener) {
+    	window.addEventListener("message", handleIFrameMessage, false);
+    } else if (window.attachEvent) {
+    	window.attachEvent("onmessage", handleIFrameMessage);
+    } <
+    /script>
+-->
+
 To see everyone who has been invited so far click here. If you know the contact details of someone not contacted yet please [let us know immediately](/contact).
 
 [List of invited alumni](/assets/resources/ouccvarsityplayers.pdf)
