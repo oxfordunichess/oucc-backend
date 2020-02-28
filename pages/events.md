@@ -7,19 +7,9 @@ See the [facebook event](https://www.facebook.com/events/435601167278650/) and o
 
 In the Hilary Term of 2019, we hosted WGM IM Irina Bulmaga for a Simultaneous Exhibition of 20 boards. The result were 18 wins to Irina, 1 draw, and 1 win to second team member Tudor Enescu.
 
-We have an upcoming Simultaneous Exhibition with GM Keith Arkell, to be held at Christ Church Library. Details will be posted here when announced.
+In the Hilary Term of 2020, we hosted GM Keith Arkell for a Simultaneous Exhibition of 23 boards. The result were 20.5 wins to Keith, 3 draws, 1 win to Richard Zhu, St Hild'as College. See our [photo album](https://www.facebook.com/oxfordunichess/photos/?tab=album&album_id=2610864912468131).
 
 The club also has a long history of running simultaneous exhibition. In 2013, we hosted GM Darmen Sadvakasov, ex-Junior World Champion. At the Second Annual Varsity Match against Cambridge, Johannes Zukertort ("the greatest player never to be World Champion") gave a six-board match blindfold whilst waiting for the final six games to finish; Joseph Henry Blackburne ("The Black Death") see [this report](../files/Second_Annual_Varsity.pdf) from the [City of London chess magazine](../files/The_City_of_London_chess_magaziney.pdf).
-
-## British Universities' Chess Association (BUCA)
-
-<Profile name='2020 Championship' links="22nd-23rd January 2020\nHoliday Inn Birmingham Airport,https://goo.gl/maps/1DAtohCqkK1FnPJQ9" description="BUCA is a central organisation that hosts a tournament every year inviting all universities across the country to attend. The Oxford University Chess Club's president will selected a team to attend. The team travels overnight to stay in a hotel and play longplay matches.\nThe deadline for entry, after which a late fee applies, is 31st January 2020." thumbnail='https://www.bucachess.org.uk/image/logo.png'>
-
-## Oxford Congress
-
-The University has traditionally hosted a 'Congress' tournament once a year. A Congress is a longplay tournament, typically spanning a weekend, officially publicised by the English Chess Federation.
-
-The Oxford Congress was last held in 2008. Provisional dates for the 2020 Congress are the **2nd week of Trinity** a.k.a. the **17th May 2020**. More details will be announced as they are confirmed.
 
 ## 150th Anniversary Celebration
 
