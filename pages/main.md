@@ -15,6 +15,7 @@ We host weekly clubnights at Christ Church on Wednesdays to play chess and socia
 - [Simultaneous exhibitions](/events) from top British players.
 
 Membership is not required to attend our events! If you are interested at any time, please come to any of our events. Our membership prices for long-standing attendees are:
+
 1. Yearly Membership: £15
 2. Life Membership: £25
 
