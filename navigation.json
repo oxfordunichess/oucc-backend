@@ -53,6 +53,10 @@
 		[
 			"/teaching",
 			"Teaching"
+		],
+		[
+			"/auth",
+			"Online"
 		]
 	],
 	"about": [
