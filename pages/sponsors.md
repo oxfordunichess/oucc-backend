@@ -1,7 +1,6 @@
 ## Sponsors
 
-<Profile name='Jane Street' links="Join Jane Street,https://www.janestreet.com/join-jane-street/\nAutumn Software Engineering Internship,https://www.janestreet.com/apply-software-eng-internship-ldn.html\nAutumn'20" thumbnail='jane_street_logo.svg' description="Jane Street invites you to apply to
-our fall software engineering internship! If you'd like to get an idea of what we cover in our software engineering interview process, you can read the link blog post, and to get an idea of projects software engineering interns work on you can also find few of our Summer 2019 projects./>
+<Profile name='Jane Street' links="Join Jane Street,https://www.janestreet.com/join-jane-street/\nAutumn Software Engineering Internship,https://www.janestreet.com/apply-software-eng-internship-ldn.html\nAutumn'20" thumbnail='jane_street_logo.svg' description="Jane Street invites you to apply to our fall software engineering internship! If you'd like to get an idea of what we cover in our software engineering interview process, you can read the link blog post, and to get an idea of projects software engineering interns work on you can also find few of our Summer 2019 projects." />
 
 <!--Jane Street is a quantitative trading firm and global liquidity provider. Our trading is based on mathematical modeling and strategies and we use innovative technology, a scientific approach, and a deep understanding of markets to stay successful. With over 1000 employees in our New York, London, Amsterdam, and Hong Kong offices, that’s a lot of ideas. Our next great idea could come from you; what will you come up with?'-->
 
