@@ -155,6 +155,13 @@
 		"description": "Hilary Termcard for the Oxford University Chess Club",
 		"maintainer": "AL"
 	},
+	"termcard/mt20": {
+		"file": "termcard_michaelmas",
+		"title": "Termcard",
+		"parent": "events",
+		"description": "Michaelmas Termcard for the Oxford University Chess Club",
+		"maintainer": "AL"
+	},
 	"termcard/mt19": {
 		"file": "termcard_michaelmas",
 		"title": "Termcard",
