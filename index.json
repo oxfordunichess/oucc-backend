@@ -156,7 +156,7 @@
 		"maintainer": "AL"
 	},
 	"termcard/mt20": {
-		"file": "termcard_michaelmas",
+		"file": "termcard_mt20",
 		"title": "Termcard",
 		"parent": "events",
 		"description": "Michaelmas Termcard for the Oxford University Chess Club",
