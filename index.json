@@ -6,9 +6,6 @@
 	"index.html": {
 		"redirect": "/"
 	},
-	"termcard/ht20": {
-		"redirect": "/termcard"
-	},
 	"news": {
 		"redirect": "/curr_news"
 	},
@@ -145,6 +142,13 @@
 		"maintainer": "AL"
 	},
 	"termcard": {
+		"file": "termcard_mt20",
+		"title": "Termcard",
+		"parent": "events",
+		"description": "Michaelmas Termcard for the Oxford University Chess Club",
+		"maintainer": "AR"
+	},
+	"termcard/ht20": {
 		"file": "termcard_hilary",
 		"title": "Termcard",
 		"parent": "events",
