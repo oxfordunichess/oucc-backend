@@ -142,14 +142,21 @@
 		"maintainer": "AL"
 	},
 	"termcard": {
-		"file": "termcard_mt20",
+		"file": "termcard_ht21",
 		"title": "Termcard",
 		"parent": "events",
-		"description": "Michaelmas Termcard for the Oxford University Chess Club",
+		"description": "Hilary Termcard for the Oxford University Chess Club",
 		"maintainer": "AR"
 	},
+	"termcard/ht21": {
+		"file": "termcard_ht21",
+		"title": "Termcard",
+		"parent": "events",
+		"description": "Hilary Termcard for the Oxford University Chess Club",
+		"maintainer": "AL"
+	},
 	"termcard/ht20": {
-		"file": "termcard_hilary",
+		"file": "termcard_ht20",
 		"title": "Termcard",
 		"parent": "events",
 		"description": "Hilary Termcard for the Oxford University Chess Club",
