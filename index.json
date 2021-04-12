@@ -3,9 +3,6 @@
 	"home": {
 		"redirect": "/"
 	},
-	"index.html": {
-		"redirect": "/"
-	},
 	"news": {
 		"redirect": "/curr_news"
 	},

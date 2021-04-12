@@ -338,5 +338,10 @@
 		"name": "Andrew Rogozinski",
 		"college": "Worcester",
 		"term": "Trinity 2018"
+	},
+	{
+		"name": "Aloysius Lip",
+		"college": "Christ Church",
+		"term": "Trinity 2019"
 	}
 ]
