@@ -1,4 +1,4 @@
-# Termcard - Michaelmas 2019
+index# Termcard - Michaelmas 2019
 
 Click the colours on the key below to toggle displaying events.
 
