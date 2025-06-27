@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Connor Clarke",
+        "college": "Hertford",
+        "position": "President"
+    },
+    {
+        "name": "Arya Saranathan",
+        "college": "St Anne's",
+        "position": "Vice President"
+    },
+    {
+        "name": "Aron Saunders",
+        "college": "Wadham",
+        "position": "Secretary"
+    },
+    {
+        "name": "Kai Beaumont",
+        "college": "Trinity",
+        "position": "Treasurer"
+    },
+    {
+        "name": "Connor Clarke",
+        "college": "Hertford",
+        "position": "Varsity Captain"
+    },
+    {
+        "name": "Ryan Pang",
+        "college": "Trinity",
+        "position": "First Team Captain"
+    },
+    {
+        "name": "Aidan Ryan",
+        "college": "Hertford",
+        "position": "Second Team Captain"
+    },
+    {
+        "name": "Aarav Duggal",
+        "college": "Brasenose",
+        "position": "Third Team Captain"
+    },
+    {
+        "name": "Ali Imam-Sadeque",
+        "college": "St John's",
+        "position": "Socials Officer"
+    },
+    {
+        "name": "Atharva Parulekar",
+        "college": "St John's",
+        "position": "IT Officer"
+    }
+    {
+        "name": "Vivian Lui",
+        "college": "St Hilda's",
+        "position": "Woman's officer"
+    }
+]
