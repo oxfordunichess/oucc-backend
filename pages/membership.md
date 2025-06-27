@@ -11,16 +11,7 @@ We are an open, friendly organisation and welcome all non-members to come along 
 
 ## Cost
 
-Anyone is welcome to attend our club events. For some matches against other universities, we will require you to be a matriculated member of the university to play. If you represent the uni or find yourself coming to our events often (especially classes and league matches) we will ask you to pay one of our two membership rates:
-
-1. Yearly Membership: £15
-2. Life Membership: £25
-
-You can either pay in cash at any of our events, via online banking, or via PayPal.
-
-Our PayPal page can be found at [https://www.paypal.me/oucc](https://www.paypal.me/oucc). Please write a note stating your name and confirming your selection of length of membership.
-
-Alternatively, use the sort code 40-35-34 and account number 90632937 and use a reference stating your name and desired length of membership.
+There is no paid membership. Anyone is welcome for free!
 
 ## ECF Membership
 
