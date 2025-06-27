@@ -2,20 +2,12 @@
 
 ## Main Rooms
 
-### [Christ Church, LR2 + LR1](#christ-lr2)
+### The Prestwich Room in St John's College
 
-A set of twin rooms in the man quad of Christ Church, perfect for our club nights. Head through the main gate (Tom Gate) on St Aldates and walk right across the quad to the door marked '8' on top. LR2 is the room on the right, LR1 is the room on the left.
-
-![LR2 Christ Church](../images/lr2_map.jpg)
-
-### [Christ Church, Blue Boar Exhibition Space (BBES)](#bbes)
-
-A more spacious, modern room in the heart of Christ Church, perfect for simultaneous exhibitions.
-
-![Blue Boar Exhibition Space BBES Christ Church](../images/bbes.jpg)
+Head through the main doors on St Giles' and walk left across the quad. Walk through the next courtyard until you reach the end. There will be a passage on your right. Walk through into the next courtyard where you should see a number of rooms including the College Bar. The Prestwich room is two rooms further round the courtyard.
 
 ## Match Rooms
 
-### St John's College
+### St Anne's College
 
-### Balliol College
+### Magdalen College
